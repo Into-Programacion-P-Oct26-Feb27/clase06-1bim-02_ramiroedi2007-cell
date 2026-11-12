@@ -45,3 +45,8 @@ public class Ejemplo03 {
         
     }
 }
+/*
+El string formate sirve para es acumular varios mensajes 
+en una variable para imprimirlo de forma
+final en el codigo
+*/
